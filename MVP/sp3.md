@@ -3,14 +3,11 @@
 ## 🎯 Objetivo do MVP
 O MVP da Sprint 3 tem como objetivo integrar e consolidar os dados de importação e exportação dos municípios do estado de São Paulo em um único ambiente de análise. A proposta é oferecer uma visão mais completa do comércio exterior, permitindo acompanhar indicadores econômicos, identificar superávits e déficits comerciais e analisar a evolução das operações ao longo do tempo.
 
-- Qual problema resolve?
-Apesar dos dashboards desenvolvidos nas sprints anteriores permitirem análises de importação e exportação separadamente, ainda faltava uma visão consolidada que facilitasse a comparação entre esses indicadores e ajudasse a compreender melhor o desempenho comercial dos municípios paulistas.
+- **Qual problema resolve?** Apesar dos dashboards desenvolvidos nas sprints anteriores permitirem análises de importação e exportação separadamente, ainda faltava uma visão consolidada que facilitasse a comparação entre esses indicadores e ajudasse a compreender melhor o desempenho comercial dos municípios paulistas.
 
-- Qual hipótese será validada?
-Se os dados de exportação e importação forem apresentados de forma integrada, juntamente com indicadores de saldo comercial, superávit e déficit comercial, os usuários conseguirão realizar análises mais completas e tomar decisões com maior embasamento.
+- **Qual hipótese será validada?** Se os dados de exportação e importação forem apresentados de forma integrada, juntamente com indicadores de saldo comercial, superávit e déficit comercial, os usuários conseguirão realizar análises mais completas e tomar decisões com maior embasamento.
 
-- Qual valor será entregue ao usuário final?  
-O MVP entregará uma ferramenta capaz de apresentar informações consolidadas sobre comércio exterior, permitindo visualizar exportações, importações, saldo comercial, principais parceiros comerciais e evolução histórica dos indicadores de forma clara e acessível.
+- **Qual valor será entregue ao usuário final?** O MVP entregará uma ferramenta capaz de apresentar informações consolidadas sobre comércio exterior, permitindo visualizar exportações, importações, saldo comercial, principais parceiros comerciais e evolução histórica dos indicadores de forma clara e acessível.
 
 ---
 
@@ -47,8 +44,34 @@ Nesta etapa, o foco está na integração dos dados de importação e exportaç�
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+### Persona 1 – Analista Institucional de Dados (CADI)
+
+**Necessidades:**  
+Analisar resultados de importação e exportação de forma integrada, comparando municípios, dados potenciais e a evolução histórica dos dados.
+
+**Dores atendidas:**  
+O dashboard reúne indicadores de exportação, importação, saldo comercial, superávit e déficit comercial em um único ambiente, permitindo análises rápidas e comparativas.
+
+---
+
+### Persona 2 – Estudante/Pesquisador
+
+**Necessidades:**  
+Acessar dados confiáveis, organizados e de fácil interpretação para apoiar estudos e pesquisas sobre comércio exterior.
+
+**Dores atendidas:**  
+A plataforma disponibiliza dashboards interativos com filtros por município, país, produto e período, facilitando a exploração e compreensão dos dados.
+
+---
+
+### Persona 3 – Analista de Logística
+
+**Necessidades:**  
+Compreender o fluxo de importações e exportações, identificar parceiros comerciais relevantes e analisar volumes movimentados e impactos logísticos.
+
+**Dores atendidas:**  
+Os dashboards apresentam informações integradas sobre exportações, importações, saldo comercial, peso movimentado, quantidade de operações e relações comerciais entre municípios e países.
 
 ---
 
