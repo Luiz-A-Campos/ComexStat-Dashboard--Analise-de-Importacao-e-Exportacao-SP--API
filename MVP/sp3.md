@@ -111,6 +111,7 @@ Profissional responsável pelo planejamento e análise das operações logístic
 Os testes foram realizados por membros da equipe, sendo:
 
 Luiz Augusto (Scrum Master - SM);
+
 Rita Carolina (Team Member - TM).
 
 ### Feedback qualitativo (positivo/negativo)
