@@ -88,6 +88,10 @@ Nesta etapa, o foco está na integração dos dados de importação e exportaç�
 
 ### Número de usuários que testaram o MVP
 
+Os testes foram realizados por membros da equipe, sendo:
+
+Luiz Augusto (Scrum Master - SM);
+Rita Carolina (Team Member - TM).
 
 ### Feedback qualitativo (positivo/negativo)
 
