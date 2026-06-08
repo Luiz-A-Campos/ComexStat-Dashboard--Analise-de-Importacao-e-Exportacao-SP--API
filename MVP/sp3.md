@@ -75,7 +75,7 @@ Profissional responsável pelo planejamento e análise das operações logístic
 ## 🔑 User Stories (Backlog do MVP)
 | Rank  | User Story                                                                 | Prioridade |
 |-----|-----------------------------------------------------------------------------|------------|
-| 1  | Como cliente, quero comparar o saldo comercial entre diferentes municípios no período de 2021 a fevereiro de 2026 para identificar quais regiões apresentam maior resiliência econômica. | Alta |
+| 1  | Como cliente, quero comparar o saldo comercial entre diferentes municípios no período de 2021 a 2026 para identificar quais regiões apresentam maior resiliência econômica. | Alta |
 | 2  | Como cliente, quero que toda a origem dos dados e as fórmulas de cálculo (como o Saldo Comercial) estejam documentadas e versionadas, para que eu tenha total confiança de que os números apresentados no dashboard são verídicos e auditáveis. | Alta |
 | 3  | Como cliente, quero filtrar as importações do vale do Paraíba por categoria de produto (NCM) e país de origem, para identificar insumos que hoje compramos de longe, mas que poderiam ser produzidos ou fornecidos localmente. | Média |
 | 4 | Como cliente, quero que cada etapa da limpeza de dados realizada no Google Colab, seja salva em abas separadas no GitHub para manter um histórico de versões e evitar a perda de progresso durante o desenvolvimento. | Baixa |
