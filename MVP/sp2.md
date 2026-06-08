@@ -159,6 +159,20 @@ Os feedbacks foram positivos em relação à organização dos dashboards, clare
 
 ---
 
+## 5W2H
+
+| What (O quê) | Why (Por quê) | Where (Onde) | When (Quando) | Who (Quem) | How (Como) | How Much (Quanto) |
+|-------------|---------------|--------------|---------------|------------|------------|-------------------|
+| Revisão final dos códigos | Garantir que todas as funcionalidades estejam funcionando corretamente | Python / Power BI | Durante a Sprint | Felipe Borges | Revisão do código, correção de erros, otimização e validação final das funcionalidades | Sem custo |
+| Finalização do dashboard | Garantir visualização clara, interativa e pronta para apresentação | Power BI | Durante a Sprint | José Augusto, Tiago Rafael e Rita Carolina | Ajustes finais nos gráficos, padronização visual e testes de interação | Sem custo |
+| Análise final dos dados | Consolidar insights e gerar conclusões estratégicas | Power BI / Reuniões | Durante a Sprint | Luiz Augusto e Luiz Gustavo | Revisão das análises, validação dos resultados e definição dos principais insights | Sem custo |
+| Organização do repositório | Garantir controle de versões e organização dos arquivos finais | GitHub | Final da Sprint | Yuri Ribeiro | Atualização dos arquivos, versionamento final e organização do repositório | Sem custo |
+| Criação do roteiro da apresentação | Garantir clareza, organização e fluidez no vídeo | Documento compartilhado | Início da Sprint | Aldo Pereira, Ana Carolina e Rita Carolina | Estruturação da narrativa, divisão de falas e organização dos conteúdos | Sem custo |
+| Levantamento de dúvidas e alinhamento do backlog | Garantir que não haja pendências no projeto | Reuniões da equipe | Durante a Sprint | Ana Carolina | Organização dos questionamentos, acompanhamento das pendências e validação das entregas | Sem custo |
+| Relatório final | Documentar todo o projeto e seus resultados | Word | Durante o Projeto | José Augusto | Escrita estruturada, revisão e formatação conforme normas | Sem custo |
+
+---
+
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
