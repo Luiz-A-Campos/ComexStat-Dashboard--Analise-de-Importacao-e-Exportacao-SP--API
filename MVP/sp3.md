@@ -93,7 +93,7 @@ Os dashboards apresentam informações integradas sobre exportações, importaç
 |--------|----------------------------------------------|----------|
 | 01     | Tabelas de exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para São Paulo.                        | Concluído|
 | 02     | Expansão dos dashboards, dashboards de importação, filtros por municípios e melhorias organizacionais.                           | Concluído |
-| 03 | Integração de exportação e importação, saldo comercial, rankings e análise comparativa.                        | Concluído |
+| 03 | Integração dos dados de exportação e importação, saldo comercial, rankings e análises comparativas.                        | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
