@@ -110,9 +110,9 @@ Profissional responsável pelo planejamento e análise das operações logístic
 
 Os testes foram realizados por membros da equipe, sendo:
 
-Luiz Augusto (Scrum Master - SM);
+- Luiz Augusto (Scrum Master - SM);
 
-Rita Carolina (Team Member - TM).
+- Rita Carolina (Team Member - TM).
 
 ### Feedback qualitativo (positivo/negativo)
 
@@ -130,16 +130,16 @@ Os testes realizados mostraram resultados positivos quanto à organização dos 
 
 ## 5W2H
 
-| What (O quê) | Why (Por quê) | Where (Onde) | When (Quando) | Who (Quem) | How (Como) | How Much (Quanto) |
+| What (O quê) | Why (Por quê) | Where (Onde) | When (Quando) | Who (Quem) | How (Como) | How Much (Quanto/tempo) |
 |-------------|---------------|--------------|---------------|------------|------------|-------------------|
-| Revisão final dos códigos | Garantir que todas as funcionalidades estejam funcionando corretamente | Python / Power BI | Durante a Sprint | Felipe Borges | Revisão do código, correção de erros, otimização e validação final das funcionalidades | Sem custo |
-| Finalização do dashboard | Garantir visualização clara, interativa e pronta para apresentação | Power BI | Durante a Sprint | José Augusto, Tiago Rafael e Rita Carolina | Ajustes finais nos gráficos, padronização visual e testes de interação | Sem custo |
-| Análise final dos dados | Consolidar insights e gerar conclusões estratégicas | Power BI / Reuniões | Durante a Sprint | Luiz Augusto e Luiz Gustavo | Revisão das análises, validação dos resultados e definição dos principais insights | Sem custo |
-| Organização do repositório | Garantir controle de versões e organização dos arquivos finais | GitHub | Final da Sprint | Yuri Ribeiro | Atualização dos arquivos, versionamento final e organização do repositório | Sem custo |
-| Edição do vídeo | Criar material visual complementar para apresentação | Ferramenta de edição | Durante a Sprint | Felipe e Yuri | Corte de cenas, inserção de transições, sincronização com roteiro e ajustes visuais | Sem custo |
-| Criação do roteiro da apresentação | Garantir clareza, organização e fluidez no vídeo | Documento compartilhado | Início da Sprint | Aldo Pereira, Ana Carolina e Rita Carolina | Estruturação da narrativa, divisão de falas e organização dos conteúdos | Sem custo |
-| Levantamento de dúvidas e alinhamento do backlog | Garantir que não haja pendências no projeto | Reuniões da equipe | Durante a Sprint | Ana Carolina | Organização dos questionamentos, acompanhamento das pendências e validação das entregas | Sem custo |
-| Relatório final | Documentar todo o projeto e seus resultados | Word | Durante o Projeto | José Augusto | Escrita estruturada, revisão e formatação conforme normas | Sem custo |
+| Revisão final dos códigos | Garantir que todas as funcionalidades estejam funcionando corretamente | Python / Power BI | Durante a Sprint | Felipe Borges | Revisão do código, correção de erros, otimização e validação final das funcionalidades | 2 semanas |
+| Finalização do dashboard | Garantir visualização clara, interativa e pronta para apresentação | Power BI | Durante a Sprint | José Augusto, Tiago Rafael e Rita Carolina | Ajustes finais nos gráficos, padronização visual e testes de interação | 2 semanas |
+| Análise final dos dados | Consolidar insights e gerar conclusões estratégicas | Power BI / Reuniões | Durante a Sprint | Luiz Augusto e Luiz Gustavo | Revisão das análises, validação dos resultados e definição dos principais insights | 2 semanas |
+| Organização do repositório | Garantir controle de versões e organização dos arquivos finais | GitHub | Final da Sprint | Yuri Ribeiro | Atualização dos arquivos, versionamento final e organização do repositório | 2 semanas |
+| Edição do vídeo | Criar material visual complementar para apresentação | Ferramenta de edição | Durante a Sprint | Felipe e Yuri | Corte de cenas, inserção de transições, sincronização com roteiro e ajustes visuais | 2 semanas |
+| Criação do roteiro da apresentação | Garantir clareza, organização e fluidez no vídeo | Documento compartilhado | Início da Sprint | Aldo Pereira, Ana Carolina e Rita Carolina | Estruturação da narrativa, divisão de falas e organização dos conteúdos | 2 semanas |
+| Levantamento de dúvidas e alinhamento do backlog | Garantir que não haja pendências no projeto | Reuniões da equipe | Durante a Sprint | Ana Carolina | Organização dos questionamentos, acompanhamento das pendências e validação das entregas | 2 semanas |
+| Relatório final | Documentar todo o projeto e seus resultados | Word | Durante o Projeto | José Augusto | Escrita estruturada, revisão e formatação conforme normas | 2 semanas |
 
 ---
 
