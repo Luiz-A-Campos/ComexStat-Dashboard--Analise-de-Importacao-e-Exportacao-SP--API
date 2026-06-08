@@ -7,7 +7,7 @@ O MVP da Sprint 3 tem como objetivo integrar e consolidar os dados de importaç�
 
 - **Qual hipótese será validada?** Se os dados de exportação e importação forem apresentados de forma integrada, juntamente com indicadores de saldo comercial, superávit e déficit comercial, os usuários conseguirão realizar análises mais completas e tomar decisões com maior embasamento.
 
-- **Qual valor será entregue ao usuário final?** O MVP entregará uma ferramenta capaz de apresentar informações consolidadas sobre comércio exterior, permitindo visualizar exportações, importações, saldo comercial, principais parceiros comerciais e evolução histórica dos indicadores de forma clara e acessível.
+- **Qual valor será entregue ao usuário final?** O MVP entregará uma ferramenta capaz de apresentar informações consolidadas sobre comércio exterior, permitindo visualizar exportações, importações, saldo comercial, indicadores potenciais e evolução histórica dos indicadores de forma clara e acessível.
 
 ---
 
