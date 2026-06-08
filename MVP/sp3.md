@@ -37,7 +37,7 @@ Nesta sprint será desenvolvido um dashboard consolidado de comércio exterior, 
 - Não existem projeções automáticas para cenários futuros;
 - Ainda não há integração automática com fontes externas de dados.
 
-### Escopo reduzido (somente o essencial para validar a ideia)
+### Escopo reduzido
 
 Nesta etapa, o foco está na integração dos dados de importação e exportação, indicadores de saldo comercial e pesagem, criação das análises de superávit e déficit comercial e gráficos comparativos.
 
@@ -48,33 +48,27 @@ Nesta etapa, o foco está na integração dos dados de importação e exportaç�
 ### Persona 1 – Analista Institucional de Dados (CADI)
 Profissional responsável por acompanhar o desempenho econômico e comercial dos municípios do estado de São Paulo.
 
-**Necessidades:**  
-Analisar resultados de importação e exportação de forma integrada, comparando municípios, dados potenciais e a evolução histórica dos dados.
+- **Necessidades:** Analisar resultados de importação e exportação de forma integrada, comparando municípios, dados potenciais e a evolução histórica dos dados.
 
-**Dores atendidas:**  
-O dashboard reúne indicadores de exportação, importação, saldo comercial, superávit e déficit comercial em um único ambiente, permitindo análises rápidas e comparativas.
+- **Dores atendidas:** O dashboard reúne indicadores de exportação, importação, saldo comercial, superávit e déficit comercial em um único ambiente, permitindo análises rápidas e comparativas.
 
 ---
 
 ### Persona 2 – Estudante/Pesquisador
 Usuário acadêmico que realiza pesquisas relacionadas à logística, economia e comércio exterior.
 
-**Necessidades:**  
-Acessar dados confiáveis, organizados e de fácil interpretação para apoiar estudos e pesquisas sobre comércio exterior.
+- **Necessidades:** Acessar dados confiáveis, organizados e de fácil interpretação para apoiar estudos e pesquisas sobre comércio exterior.
 
-**Dores atendidas:**  
-A plataforma disponibiliza dashboards interativos com filtros por município, país, produto e período, facilitando a exploração e compreensão dos dados.
+- **Dores atendidas:** A plataforma disponibiliza dashboards interativos com filtros por município, país, produto e período, facilitando a exploração e compreensão dos dados.
 
 ---
 
 ### Persona 3 – Analista de Logística
 Profissional responsável pelo planejamento e análise das operações logísticas e comerciais.
 
-**Necessidades:**  
-Compreender o fluxo de importações e exportações, identificar parceiros comerciais relevantes e volumes movimentados para analisar impactos logísticos.
+- **Necessidades:** Compreender o fluxo de importações e exportações, identificar parceiros comerciais relevantes e volumes movimentados para analisar impactos logísticos.
 
-**Dores atendidas:**  
-Os dashboards apresentam informações integradas sobre exportações, importações, saldo comercial, peso movimentado, quantidade de operações e relações comerciais entre municípios e países.
+- **Dores atendidas:** Os dashboards apresentam informações integradas sobre exportações, importações, saldo comercial, peso movimentado, quantidade de operações e relações comerciais entre municípios e países.
 
 ---
 
@@ -130,6 +124,21 @@ Os testes realizados mostraram resultados positivos quanto à organização dos 
 - Melhor interpretação dos indicadores econômicos;
 - Identificação mais rápida de oportunidades comerciais;
 - Maior acessibilidade aos dados públicos de comércio exterior.
+
+---
+
+## 5W2H
+
+| What (O quê) | Why (Por quê) | Where (Onde) | When (Quando) | Who (Quem) | How (Como) | How Much (Quanto) |
+|-------------|---------------|--------------|---------------|------------|------------|-------------------|
+| Revisão final dos códigos | Garantir que todas as funcionalidades estejam funcionando corretamente | Python / Power BI | Durante a Sprint | Felipe Borges | Revisão do código, correção de erros, otimização e validação final das funcionalidades | Sem custo |
+| Finalização do dashboard | Garantir visualização clara, interativa e pronta para apresentação | Power BI | Durante a Sprint | José Augusto, Tiago Rafael e Rita Carolina | Ajustes finais nos gráficos, padronização visual e testes de interação | Sem custo |
+| Análise final dos dados | Consolidar insights e gerar conclusões estratégicas | Power BI / Reuniões | Durante a Sprint | Luiz Augusto e Luiz Gustavo | Revisão das análises, validação dos resultados e definição dos principais insights | Sem custo |
+| Organização do repositório | Garantir controle de versões e organização dos arquivos finais | GitHub | Final da Sprint | Yuri Ribeiro | Atualização dos arquivos, versionamento final e organização do repositório | Sem custo |
+| Edição do vídeo | Criar material visual complementar para apresentação | Ferramenta de edição | Durante a Sprint | Felipe e Yuri | Corte de cenas, inserção de transições, sincronização com roteiro e ajustes visuais | Sem custo |
+| Criação do roteiro da apresentação | Garantir clareza, organização e fluidez no vídeo | Documento compartilhado | Início da Sprint | Aldo Pereira, Ana Carolina e Rita Carolina | Estruturação da narrativa, divisão de falas e organização dos conteúdos | Sem custo |
+| Levantamento de dúvidas e alinhamento do backlog | Garantir que não haja pendências no projeto | Reuniões da equipe | Durante a Sprint | Ana Carolina | Organização dos questionamentos, acompanhamento das pendências e validação das entregas | Sem custo |
+| Relatório final | Documentar todo o projeto e seus resultados | Word | Durante o Projeto | José Augusto | Escrita estruturada, revisão e formatação conforme normas | Sem custo |
 
 ---
 
