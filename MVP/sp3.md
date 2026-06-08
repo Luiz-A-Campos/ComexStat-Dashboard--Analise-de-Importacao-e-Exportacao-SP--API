@@ -23,7 +23,7 @@ Nesta sprint será desenvolvido um dashboard consolidado de comércio exterior, 
 - Quilogramas importados;
 - Total de operações de exportação;
 - Total de operações de importação;
-- Filtros por município, país, produto SH4, mês e ano;
+- Filtros por município, país, produto, mês e ano;
 - Mapa de calor dos países com superávit comercial;
 - Mapa de calor dos países com déficit comercial;
 - Ranking dos principais países com superávit comercial;
