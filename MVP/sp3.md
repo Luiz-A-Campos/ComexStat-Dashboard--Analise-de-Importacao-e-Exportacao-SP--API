@@ -46,6 +46,7 @@ Nesta etapa, o foco está na integração dos dados de importação e exportaç�
 ## 👥 Personas / Usuários-Alvo
 
 ### Persona 1 – Analista Institucional de Dados (CADI)
+Profissional responsável por acompanhar o desempenho econômico e comercial dos municípios do estado de São Paulo.
 
 **Necessidades:**  
 Analisar resultados de importação e exportação de forma integrada, comparando municípios, dados potenciais e a evolução histórica dos dados.
@@ -56,6 +57,7 @@ O dashboard reúne indicadores de exportação, importação, saldo comercial, s
 ---
 
 ### Persona 2 – Estudante/Pesquisador
+Usuário acadêmico que realiza pesquisas relacionadas à logística, economia e comércio exterior.
 
 **Necessidades:**  
 Acessar dados confiáveis, organizados e de fácil interpretação para apoiar estudos e pesquisas sobre comércio exterior.
@@ -66,9 +68,10 @@ A plataforma disponibiliza dashboards interativos com filtros por município, pa
 ---
 
 ### Persona 3 – Analista de Logística
+Profissional responsável pelo planejamento e análise das operações logísticas e comerciais.
 
 **Necessidades:**  
-Compreender o fluxo de importações e exportações, identificar parceiros comerciais relevantes e analisar volumes movimentados e impactos logísticos.
+Compreender o fluxo de importações e exportações, identificar parceiros comerciais relevantes e volumes movimentados para analisar impactos logísticos.
 
 **Dores atendidas:**  
 Os dashboards apresentam informações integradas sobre exportações, importações, saldo comercial, peso movimentado, quantidade de operações e relações comerciais entre municípios e países.
@@ -88,9 +91,9 @@ Os dashboards apresentam informações integradas sobre exportações, importaç
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| 01     | Tabelas de exportação, Desenvolvimento inicial do dashboard no Power BI, Filtro de dados para São Paulo.                        | Concluído|
+| 02     | Expansão dos dashboards, dashboards de importação, filtros por municípios e melhorias organizacionais.                           | Concluído |
+| 03 | Integração de exportação e importação, saldo comercial, rankings e análise comparativa.                        | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
