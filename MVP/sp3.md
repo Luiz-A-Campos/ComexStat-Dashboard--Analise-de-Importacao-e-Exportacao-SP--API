@@ -151,6 +151,16 @@ Os testes realizados mostraram resultados positivos quanto à organização dos 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+- Prints de tela  <img width="1313" height="728" alt="Captura de tela 2026-06-15 174349" src="https://github.com/user-attachments/assets/61eacc2a-4a3f-4293-bc83-9031b88d2592" />
+
+<img width="1313" height="735" alt="Captura de tela 2026-06-15 174359" src="https://github.com/user-attachments/assets/900458e2-7816-48c7-963d-dcabdf270f05" />
+
+<img width="1176" height="667" alt="WhatsApp Image 2026-06-06 at 11 22 55" src="https://github.com/user-attachments/assets/abc4e706-6159-48de-9509-60c676570f72" />
+
+<img width="1181" height="670" alt="WhatsApp Image 2026-06-06 at 11 23 27" src="https://github.com/user-attachments/assets/079f8373-9d73-4d6b-bc11-0cde9f525692" />
+
 - Fluxos ou protótipos: https://drive.google.com/drive/u/2/folders/1m7LKs9OlSocSRmNYkeXjGUagk_Qde4B8
-- Vídeo (MVP)  
+- Vídeo (MVP): https://youtu.be/osJ0nj-68po
+- Video de Apresentação: https://youtu.be/1TMmoTsmlKU
+- Dashboard: [Dashborad Final.zip](https://github.com/user-attachments/files/28977249/Dashborad.Final.zip)
+
